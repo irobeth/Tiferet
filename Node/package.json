@@ -1,0 +1,14 @@
+{
+    "name": "mentis-bootstrap",
+    "description": "bootstrapping test",
+    "version": "0.0.1",
+    "private": true,
+    "dependencies": {
+        "express": "3.x",
+        "express-params": "0.0.3",
+        "bookshelf": "0.5.7",
+        "backbone" : "1.0.0",
+        "q": "0.9.7",
+        "moment": "2.3.1"
+    }
+}
